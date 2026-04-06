@@ -1,16 +1,18 @@
-## Hi there 👋
+## Abu Vim
 
-<!--
-**AbuVim/AbuVIm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm tryna learn to code it looks cool😭🐣
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages and Tools
+
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+
+### 📊 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AbuVim&show_icons=true&theme=gruvbox)-->
+
+
+
+
