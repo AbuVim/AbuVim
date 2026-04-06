@@ -1,6 +1,8 @@
 ## Abu Vim
 
-![image alt](https://github.com/AbuVim/AbuVIm/blob/74dec956792e9578ff980ea1f34430b38aaaa2b0/horse%20on%20beach.jpg)
+<p align="center">
+  <img src="https://github.com/AbuVim/AbuVIm/blob/74dec956792e9578ff980ea1f34430b38aaaa2b0/horse%20on%20beach.jpg" alt="image alt" width="400"/>
+</p>
 
 I'm tryna learn to code it looks cool😭🐣
 
@@ -13,7 +15,7 @@ I'm tryna learn to code it looks cool😭🐣
 
 ### 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abuvim&show_icons=true&theme=gruvbox)
+![Stats](https://github-readme-stats.vercel.app/api?username=AbuVim&show_icons=true&theme=gruvbox)
 
 
 
