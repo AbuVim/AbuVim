@@ -1,7 +1,7 @@
 ## Abu Vim
 
 <p align="center">
-  <img src="https://github.com/AbuVim/AbuVIm/blob/74dec956792e9578ff980ea1f34430b38aaaa2b0/horse%20on%20beach.jpg" alt="image alt" width="400"/>
+  <img src="https://github.com/AbuVim/AbuVIm/blob/c605a4889f693103ead0949714e8ae5e9fd5b53f/flag.jpg" alt="image alt" width="400"/>
 </p>
 
 I'm tryna learn to code it looks cool😭🐣
@@ -11,12 +11,6 @@ I'm tryna learn to code it looks cool😭🐣
 ### 🧰 Languages and Tools
 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
-
-### 📊 Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AbuVim&show_icons=true&theme=gruvbox)
-
 
 
 
